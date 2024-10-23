@@ -10,6 +10,5 @@
 **Ping Me:** 
 - If you wanna see Man vs. Machine & where the machine wins.
 
-**Status:** 
-- 404: {/* eslint-disable */}
+# {/* eslint-disable */}
 
