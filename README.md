@@ -1,17 +1,15 @@
-## Garv Joshi: Code Jester 🎭
+## Garv 🤡
 
 ### A wannabe absurdist & an occasional human 🌟
 
 
-- 🤖 I write code. Sometimes it runs, sometimes it's behaves like my karma.
-- 🌮 Coffee-driven development advocate. 
+- 🤖 I write code. Sometimes it runs, sometimes it behaves like my karma.
+- ☕️ Coffee-driven development advocate. 
 - 🔍 Currently lost in my own repo. Send help or snacks.
 
 **Ping Me:** 
 - If you wanna see Man vs. Machine & where the machine wins.
 
 **Status:** 
-- 404: Life not found, but hey, my code compiles!
+- 404: {/* eslint-disable */}
 
-**Fun Blunder:** 
-- Told my IDE to find happiness. It's still searching...
