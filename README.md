@@ -1,25 +1,17 @@
-## Hi, I'm Garv Joshi 🍕
+## Garv Joshi: Code Jester 🎭
 
 ### A wannabe absurdist & an occasional human 🌟
 
-🌐 **What I'm Up To:**
-- 🧑‍💻 Writing code that's more confused than I am in a social setting
-- 🚀 Attempting to launch my dignity into space. So far, just a lot of failed launches
 
-🎓 **Currently Learning:**
-- The subtle art of not rage quitting when my code decides to take a nap
+- 🤖 I write code. Sometimes it runs, sometimes it's behaves like my karma.
+- 🌮 Coffee-driven development advocate. 
+- 🔍 Currently lost in my own repo. Send help or snacks.
 
-👫 **Let's Team Up:**
-- If you love debugging more than your own life decisions, we'll get along great!
-- Looking for someone to share in the glory of fixing that bug at 3 AM
+**Ping Me:** 
+- If you have memes or need someone to add bugs to your code.
 
-🔍 **Could Use a Hand With:**
-- Finding where I misplaced my will to debug
+**Status:** 
+- 404: Life not found, but hey, my code compiles!
 
-📧 **Get In Touch:**
-- DM for tech talks or if you want to debate pineapple on pizza 🍍🍕
-
-🤖 **Me in Two Words:**
-- Syntax/Error
-
-**Note:** If my code breaks, it's just taking a dramatic pause for effect. Stick around for the encore!
+**Fun Blunder:** 
+- Told my IDE to find happiness. It's still searching...
