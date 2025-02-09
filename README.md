@@ -1,9 +1,9 @@
 ## Garv 🤡
 
-### A wannabe absurdist & an occasional human 🌟
+### A wannabe absurdist
 
 
-- 🤖 I write code. Sometimes it runs, sometimes it behaves like my karma.
+- 🤖 I edit files. Sometimes it runs, sometimes it behaves like my karma.
 
 **Ping Me:** 
 - If you wanna see Man vs. Machine & where the machine wins.
