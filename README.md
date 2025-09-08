@@ -1,6 +1,6 @@
 ## Garv 🤡
 
-### A wannabe absurdist
+### wannabe absurdist
 
 - I edit files
 
