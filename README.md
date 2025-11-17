@@ -2,9 +2,9 @@
 
 ### wannabe absurdist
 
-- I edit files
+- I deal with bits & bytes(tbh not really)
 
-**Ping Me:** 
-- If you wanna see Man vs. Machine & where the machine wins.
+**DM for** 
+- Man vs. Machine showdowns (spoiler: silicon slays)
 
 
