@@ -1,17 +1,19 @@
 ## Garv 🤡
 ### wannabe absurdist
 
-## Personal Websites
-- neetcracker.in
-- neverlookbad.com
-- jumkas.com
-- weedweedweed.live(might kill this)
-- abelaude.com
-- swipeforsex.com
+## Things I Made
+- https://neetcracker.in
+- https://neverlookbad.com
+- https://jumkas.com
+- https://weedweedweed.live (probably pulling the plug)
+- https://abelaude.com
+- https://swipeforsex.com
 
-- I deal with bits & bytes(tbh not really)
+## Skills
+- moving bits
+- occasionally moving bytes
+- pretending to know what I'm doing
 
-**DM for** 
-- Man vs. Machine showdowns (spoiler: silicon slays)
-
-
+**DM for**
+- Man vs. Machine showdowns  
+  *(spoiler: silicon usually wins)*
