@@ -7,7 +7,6 @@
 - https://neverlookbad.com
 - https://jumkas.com
 - https://weedweedweed.live (probably pulling the plug)
-- https://abelaude.com
 - https://swipeforsex.com
 
 ## Skills
