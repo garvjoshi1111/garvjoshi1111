@@ -6,8 +6,6 @@
 - https://iascracker.com
 - https://neverlookbad.com
 - https://jumkas.com
-- https://weedweedweed.live (probably pulling the plug)
-- https://swipeforsex.com
 
 ## Skills
 - moving bits
